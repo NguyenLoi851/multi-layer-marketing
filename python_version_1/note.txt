@@ -1,0 +1,29 @@
+2/11/2021
+
+Function 1 and 3 is correct 
+
+We need to add hidden datetime property to Distributor table,
+with this property we can load data order by input time of data 
+-> We must edit function loadData()
+
+Function deleteNode() is not correct
+We cannot delete the last element of the dataset
+We cannot update parentId correctly 
+
+4/11/2021
+
+Done some problems in 2/11
+
+We need to change front-end:
+    1. Find to run in a beautiful terminal
+    2. Change text to display and how to exit function for user
+
+4/11/2021 (2)
+
+Done some problems in 4/11 
+Done all
+Need to reconstruct source code
+
+15/11/2021 
+
+Reconstruct source code successfully
